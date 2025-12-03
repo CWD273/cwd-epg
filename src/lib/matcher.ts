@@ -52,17 +52,17 @@ const SYNONYMS: Record<string, string[]> = {
   'vice': ['vice tv', 'viceland'],
 
   // Kids & family
-  'boomerang': ['boomerang'],
+  'boomerang': ['boomerang hd'],
   'cartoon network': ['cartoon network', 'cartoon network usa'],
   'cn': ['cartoon network', 'cartoon network usa'],
   'disney': ['disney channel'],
   'disney channel': ['disney channel'],
-  'disney junior': ['disney junior'],
+  'disney junior': ['disney jr'],
   'disney xd': ['disney xd'],
   'nick': ['nickelodeon'],
   'nick jr': ['nick jr', 'nick jr.'],
   'nickelodeon': ['nickelodeon'],
-  'nicktoons': ['nicktoons'],
+  'nicktoons': ['nicktoonsn hd'],
 
   // Sports
   'espn': ['espn'],
